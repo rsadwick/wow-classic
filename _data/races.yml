@@ -1,0 +1,31 @@
+- name: Humans
+  slug: humans
+  isAlliance: true
+
+- name: Night Elves
+  slug: night-elves
+  isAlliance: true
+
+- name: Dwarves
+  slug: dwarves
+  isAlliance: true
+
+- name: Gnomes
+  slug: gnomes
+  isAlliance: true
+
+- name: Orcs
+  slug: orcs
+  isHorde: true
+
+- name: Tauren
+  slug: tauren
+  isHorde: true
+
+- name: Undead
+  slug: undead
+  isHorde: true
+
+- name: Trolls
+  slug: trolls
+  isHorde: true
