@@ -1,0 +1,23 @@
+- name: Warrior
+  slug: warrior
+
+- name: Paladin
+  slug: paladin
+
+- name: Hunter
+  slug: hunter
+
+- name: Priest
+  slug: priest
+
+- name: Shaman
+  slug: shaman
+
+- name: Mage
+  slug: mage
+
+- name: Warlock
+  slug: warlock
+
+- name: Druid
+  slug: druid
