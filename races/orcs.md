@@ -14,10 +14,10 @@ Now, the Orcs stand ready to fight not for the sake of conquest, but for their r
 
 ## Racial Traits
 
-+ Blood Fury - active Increases base melee attack power by 25% for 15 sec and reduces healing effects on you 50% for 25 sec.
-- Hardiness - passive 25% resistance to stun and knockout effects.
-- Command - passive	Pet melee damage increased by 5%.
-- Axe Specialization - passive Orcs get +5 to Axe skill.
++ {% include wowhead-tooltip.html item="20572" name="Blood Fury" type="spell" %}
+- {% include wowhead-tooltip.html item="20573" name="Hardiness" type="spell" %}
+- {% include wowhead-tooltip.html item="20575" name="Command" type="spell" %}
+- {% include wowhead-tooltip.html item="20574" name="Axe Specialization" type="spell" %}
 
 ## Info
 

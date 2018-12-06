@@ -12,11 +12,11 @@ Following the heroic examples of the legendary Sir Lothar and King Llane, the de
 
 ## Racial Traits
 
-+ Perception - active Activate to dramatically increase stealth detection - Lasts 20 sec - 3 min cooldown
-- The Human Spirit - passive Increase Spirit by 5%
-- Diplomacy - passive 10% bonus to faction point gain
-- Sword Specialization - passive Humans get +5 to Sword skill
-- Mace Specialization - passive	Humans get +5 to Mace skill
++ {% include wowhead-tooltip.html item="20600" name="Perception" type="spell" %}
+- {% include wowhead-tooltip.html item="20598" name="The Human Spirit" type="spell" %}
+- {% include wowhead-tooltip.html item="20599" name="Diplomacy" type="spell" %}
+- {% include wowhead-tooltip.html item="20597" name="Sword Specialization" type="spell" %}
+- {% include wowhead-tooltip.html item="20864" name="Mace Specialization" type="spell" %}
 
 ## Info
 

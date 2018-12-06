@@ -12,10 +12,10 @@ The two races have remained steadfast allies ever since. Like the Orcs, the Taur
 
 ## Racial Traits
 
-+ War Stomp - active Activate to stun up to 5 opponents within 8 yards - lasts 2 sec - 2 min cooldown
-- Endurance - passive Max Health increased by 5%
-- Cultivation - passive	15 skill bonus to Herbalism
-- Nature Resistance - passive All Tauren get +10 Nature Resistance
++ {% include wowhead-tooltip.html item="20549" name="War Stomp" type="spell" %}
+- {% include wowhead-tooltip.html item="20550" name="Endurance" type="spell" %}
+- {% include wowhead-tooltip.html item="20552" name="Cultivation" type="spell" %}
+- {% include wowhead-tooltip.html item="20551" name="Nature Resistance" type="spell" %}
 
 ## Info
 

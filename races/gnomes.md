@@ -15,10 +15,10 @@ Nearly half of the Gnomish race was wiped out during the fall of Gnomeregan. The
 
 ## Racial Traits
 
-+ Escape Artist - active Activate to break out of a Root or Snare effect - 0.5 sec cast - 1 min cooldown
-- Expansive Mind - passive Increase Intelligence by 5%
-- Arcane Resistance - passive All Gnomes get +10 Arcane Resistance
-- Engineering Specialization - passive 15 skill bonus to Engineering
++ {% include wowhead-tooltip.html item="20589" name="Escape Artist" type="spell" %}
+- {% include wowhead-tooltip.html item="20591" name="Expansive Mind" type="spell" %}
+- {% include wowhead-tooltip.html item="20592" name="Arcane Resistance" type="spell" %}
+- {% include wowhead-tooltip.html item="20593" name="Engineering Specialization" type="spell" %}
 
 ## Info
 

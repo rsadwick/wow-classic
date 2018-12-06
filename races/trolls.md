@@ -13,15 +13,15 @@ As part of the Horde, the Trolls have extended their loyalty to the mighty Taure
 
 ## Racial Traits
 
-+ Berserking - active Increases your attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 10 sec.
-- Regeneration - passive 10% health regen bonus, 10% active in combat
-- Beast Slaying - passive 5% damage bonus to Beasts
-- Throwing Specialization - passive	+5 to Throwing Weapon skills
--Bow Specialization - passive +5 to Bow Weapon Skills
++ {% include wowhead-tooltip.html item="26297" name="Berserking" type="spell" %}
+- {% include wowhead-tooltip.html item="20555" name="Regeneration" type="spell" %}
+- {% include wowhead-tooltip.html item="20557" name="Beast Slaying" type="spell" %}
+- {% include wowhead-tooltip.html item="20558" name="Throwing Specialization" type="spell" %}
+- {% include wowhead-tooltip.html item="26290" name="Bow Specialization" type="spell" %}
 
 ## Info
 
-Start Location: Durotar 
+Start Location: Durotar
 Home City: Orgrimmar
-Racial Mount: Raptor 
+Racial Mount: Raptor
 - Available Classes: [Hunter](/classes/hunter), [Mage](/classes/mage), [Priest](/classes/priest), [Rogue](/classes/rogue), [Shaman](/classes/shaman), [Warrior](/classes/warrior)

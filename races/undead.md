@@ -14,10 +14,10 @@ Only time will tell how these disciples of doom will fare in their mission of ve
 
 ## Racial Traits
 
-+ Will of the Forsaken - active Activate to become immune to Fear, Sleep, and Charm effects. Can also be used while already afflicted by Fear or Sleep - lasts 5 sec - 2 min cooldown
-- Cannibalize - active Activate to regenerate 7% of total health every 2 sec. by consuming Humanoid or Undead corpses within 5 yds - lasts 10 sec - 2 min cooldown
-- Underwater Breathing - passive Underwater breath lasts 300% longer than normal
-- Shadow Resistance - passive All Undead get +10 Shadow Resistance
++ {% include wowhead-tooltip.html item="7744" name="Will of the Forsaken" type="spell" %}
+- {% include wowhead-tooltip.html item="20577" name="Cannibalize" type="spell" %}
+- {% include wowhead-tooltip.html item="5227" name="Underwater Breathing" type="spell" %}
+- {% include wowhead-tooltip.html item="20579" name="Shadow Resistance" type="spell" %}
 
 ## Info
 

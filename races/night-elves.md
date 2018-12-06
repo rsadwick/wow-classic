@@ -14,10 +14,10 @@ They are nocturnal by nature and their shadowy powers often elicit the same dist
 
 ## Racial Traits
 
-+ Shadowmeld - active Activate while immobile and out of combat to enter stealth mode - lasts until canceled - 10 sec cooldown
-- Quickness - passive Dodge chance increased by 1%
-- Wisp Spirit - passive	Become a wisp when dead with movement speed increase of 50% (25% faster than normal ghost)
-- Nature Resistance - passive All Night Elves get +10 Nature Resistance
++ {% include wowhead-tooltip.html item="20580" name="Shadowmeld" type="spell" %}
+- {% include wowhead-tooltip.html item="20582" name="Quickness" type="spell" %}
+- {% include wowhead-tooltip.html item="20585" name="Wisp Spirit" type="spell" %}
+- {% include wowhead-tooltip.html item="20551" name="Nature Resistance" type="spell" %}
 
 ## Info
 

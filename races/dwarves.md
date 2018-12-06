@@ -14,10 +14,10 @@ These journeys led to Dwarven excavation sites all over the known world, some of
 
 ## Racial Traits
 
-+ Stoneform - active While active, grants immunity to Bleed, Poison, and Disease effects. In addition, Armor increases by 10%. Lasts 8 sec. - 3 min cooldown
-- Gun Specialization - passive Dwarves get +5 to Gun Skill
-- Frost Resistance - passive All Dwarves get +10 Frost Resistance
-- Find Treasure - passive Activate to see treasure chests on mini map - lasts until canceled - no cooldown
++ {% include wowhead-tooltip.html item="20594" name="Stoneform" type="spell" %}
+- {% include wowhead-tooltip.html item="20595" name="Gun Specialization" type="spell" %}
+- {% include wowhead-tooltip.html item="20596" name="Frost Resistance" type="spell" %}
+- {% include wowhead-tooltip.html item="2481" name="Find Treasure" type="spell" %}
 
 ## Info
 
