@@ -31,9 +31,15 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.md
+  - races.md
   - classes.md
   - guides.md
+  - about.md
+
+collections:
+  - legendaries
+    
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

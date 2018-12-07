@@ -21,7 +21,7 @@ As part of the Horde, the Trolls have extended their loyalty to the mighty Taure
 
 ## Info
 
-Start Location: Durotar
-Home City: Orgrimmar
-Racial Mount: Raptor
++ Start Location: Durotar
+- Home City: Orgrimmar
+- Racial Mount: Raptor
 - Available Classes: [Hunter](/classes/hunter), [Mage](/classes/mage), [Priest](/classes/priest), [Rogue](/classes/rogue), [Shaman](/classes/shaman), [Warrior](/classes/warrior)

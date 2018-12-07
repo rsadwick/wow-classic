@@ -253,3 +253,33 @@
     }
   }
 }
+
+
+.flex-grid {
+  display: flex;
+  margin: 12px 0;
+}
+.flex-grid .col {
+  flex: 1;
+}
+.flex-grid-thirds {
+  display: flex;
+  justify-content: space-between;
+  margin: 12px 0;
+}
+.flex-grid-thirds .col {
+  width: 32%;
+}
+
+
+// Use media queries like this:
+ @include media-query($on-palm) {
+  .flex-grid,
+  .flex-grid-thirds {
+    display: block;
+    .col {
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
+  }
+ }

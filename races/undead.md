@@ -21,7 +21,7 @@ Only time will tell how these disciples of doom will fare in their mission of ve
 
 ## Info
 
-Start Location: Tirisfal Glades 
-Home City: Undercity 
-Racial Mount: Skeletal Horse 
++ Start Location: Tirisfal Glades 
+- Home City: Undercity 
+- Racial Mount: Skeletal Horse 
 - Available Classes: [Mage](/classes/mage), [Priest](/classes/priest), [Rogue](/classes/rogue), [Warlock](/classes/warlock),  [Warrior](/classes/warrior)

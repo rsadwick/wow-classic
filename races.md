@@ -4,7 +4,6 @@ title: Races
 permalink: /races/
 ---
 
-List of races here!
 ## Alliance
 {% assign races = site.data.races | where:"isAlliance", true %}
 {% for race in races %}  
