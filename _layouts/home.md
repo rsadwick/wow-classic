@@ -11,6 +11,11 @@ layout: default
   {{ content }}
 
 
+  <video width="360" height="168" playsinline="" autoplay="autoplay" loop="loop" muted="">
+                <source src="assets/test1.mp4" type="video/mp4">
+            </video>
+
+
 <div class="flex-grid">
     {% for guide in site.legendaries %}
         <div class="col">
